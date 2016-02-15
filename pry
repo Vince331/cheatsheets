@@ -1,0 +1,4 @@
+some_obj.method call method on object
+SomeClass#instance_method call on instances of the class
+
+

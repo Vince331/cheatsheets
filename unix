@@ -1,0 +1,9 @@
+pwd = print working directory
+cd = change directory
+ls = list all files and folders
+rm = remove files/folders and name of f/f as argument
+ln =
+mkdir = make directory and add and argument to it
+curl = display all links of a page
+cat = displays all the info of the file
+12"a"67, 12"b"67, 12"c"67
